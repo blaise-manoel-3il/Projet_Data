@@ -1,4 +1,4 @@
- #Mon projet DATA
+ 
 # Data Projects Repository
 Ce dépôt regroupe l’ensemble de mes projets liés à la Data Science, Analyse de données, Machine Learning, et Big Data réalisés durant mon cursus.
 
