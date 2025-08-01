@@ -1,4 +1,4 @@
-✅ Projet Data Science : 
+✅ Projet Data Science :
 ANALYSE ET VISUALISATION DES NOTES DE FILMS FANDANGO
 
 Dans le cadre de notre projet en Data Science, nous avons exploré et évalué la fiabilité des notes attribuées aux films sur Fandango.
